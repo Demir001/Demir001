@@ -81,17 +81,6 @@ Planned / ongoing:
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Demir001&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Demir001&layout=compact&theme=tokyonight" />
-</p>
-
----
 
 ## 🌐 Connect With Me
 
@@ -115,16 +104,9 @@ Planned / ongoing:
 
 - Become proficient in penetration testing
 - Build real-world cybersecurity tools
-- Gain internship experience in security field
-- Contribute to open-source security projects
 
 ---
 
-## ⚡ Motto
-
-<p align="center">
-  <b>“Learn. Break. Understand. Improve.”</b>
-</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:0f172a&height=120&section=footer"/>
