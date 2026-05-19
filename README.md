@@ -65,8 +65,8 @@
 - Networking fundamentals
 - Git & GitHub version control
 - Web security basics
-- Burp Suite (beginner level)
-
+- Burp Suite
+- Web Scraping
 ---
 
 ## 📂 Projects
@@ -74,10 +74,9 @@
 🚧 Currently building my cybersecurity portfolio on GitHub.
 
 Planned / ongoing:
-- 🔐 Security automation scripts (Python)
+- 🔐 Security automation scripts 
 - 🌐 Basic reconnaissance tools
-- 🧪 CTF writeups repository
-- 📊 Learning-based mini tools
+- 📊 Social media automation bots
 
 ---
 
@@ -104,7 +103,7 @@ Planned / ongoing:
 
 - Become proficient in penetration testing
 - Build real-world cybersecurity tools
-
+- Learn about the security vulnerabilities that AI systems can create.
 ---
 
 
