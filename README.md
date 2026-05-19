@@ -18,7 +18,6 @@
 🛡️ My focus is on **offensive security, penetration testing, and hands-on learning**.  
 ⚡ I prefer learning by breaking, testing, and analyzing real systems (CTFs & labs).
 
-🏫 High School Graduate: Özel Çankayafen Koleji Anadolu Lisesi
 
 ---
 
