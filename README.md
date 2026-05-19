@@ -39,7 +39,7 @@
   <img src="https://img.shields.io/badge/Focus-Offensive%20Security-black?style=for-the-badge"/>
 </p>
 
-- Completed **180+ CTF rooms and cybersecurity labs** on :contentReference[oaicite:0]{index=0}  
+- Completed **180+ CTF rooms and cybersecurity labs** on TryHackMe 
 - Active participation in offensive security challenges  
 - Hands-on experience with:
   - Web exploitation basics
